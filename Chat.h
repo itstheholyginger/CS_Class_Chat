@@ -5,7 +5,7 @@
 #ifndef CS_CLASS_CHAT_CHAT_H
 #define CS_CLASS_CHAT_CHAT_H
 #include "list.h"
-#include <curl/curl.h>
+#include "newCurl/include/curl/curl.h"
 #include <fstream>
 #include<sys/time.h>
 #include<stdio.h>
