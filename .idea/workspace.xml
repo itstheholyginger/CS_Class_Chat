@@ -12,11 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20dc369e-5264-4bf8-8afb-db27651f4671" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/curl" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a" afterPath="$PROJECT_DIR$/a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a.dSYM/Contents/Resources/DWARF/a" afterPath="$PROJECT_DIR$/a.dSYM/Contents/Resources/DWARF/a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/curl" afterPath="$PROJECT_DIR$/curl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chat.h" afterPath="$PROJECT_DIR$/Chat.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="150">
+              <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -70,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chat.h" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Chat.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chat.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -129,6 +127,11 @@
               <item name="CS_Class_Chat" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="CS_Class_Chat" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CS_Class_Chat" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="CS_Class_Chat" type="462c0819:PsiDirectoryNode" />
+              <item name="newCurl" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -172,12 +175,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511917814671</updated>
-      <workItem from="1511917816963" duration="12597000" />
+      <workItem from="1511917816963" duration="13113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12597000" />
+    <option name="totallyTimeSpent" value="13113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="843" extended-state="6" />
@@ -230,14 +233,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -252,6 +247,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding />
         </state>
       </provider>
